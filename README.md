@@ -81,3 +81,8 @@ the **Key** input area (3). The tip is the format hint for users.
 * Solution: The system will pop up an alert to the user to inform them. The user can continue after clicking **OK**.
 <img width="700" height="594" alt="no_text1" src="https://github.com/user-attachments/assets/3c705d57-ecab-4658-9fb2-d0429ecaf38e" />
 ---
+
+## Reference
+Data Encryption Standard (DES) by NIST, FIPS PUB 46-3, October 25, 1999 (Reaffirmed). You can retrieve a copy of the standard document at: https://csrc.nist.gov/CSRC/media/Publications/fips/46/3/archive/1999-10-25/documents/fips46-3.pdf
+
+---
